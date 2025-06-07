@@ -9,7 +9,7 @@ A classic arcade-style game where the player controls a turtle trying to cross a
 - With each level, the cars move faster, increasing the difficulty.
 - The game ends when you collide with a car.
 
-## 🚀 Features
+## Features
 - Randomly generated colorful cars.
 - Increasing difficulty with each level.
 - Real-time collision detection.
